@@ -1,2 +1,5 @@
-# kaldi_voxceleb_pytorch
-The kaldi VoxCeleb egg with its DNN implemented in PyTorch
+# PyTorch and Kaldi Speaker Identification and Diarization
+
+This is a speaker identification an diarization solution based on PyTorch
+and the VoxCeleb v2 example from Kaldi.
+

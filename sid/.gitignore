@@ -1,0 +1,10 @@
+venv
+data
+.idea
+*.pt
+__pycache__
+logs
+back
+exp/*
+exp/spklbl
+.tmp/*

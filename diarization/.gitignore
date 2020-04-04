@@ -1,0 +1,10 @@
+local
+sid
+steps
+utils
+data/*
+mfccs/*
+log/*
+utils/*
+exp
+*_backup
