@@ -60,5 +60,5 @@ This was part of my Bachelor Thesis.
 
 - [Sphereface](https://github.com/wy1iu/sphereface): The original implementation of the Angular margin based softmax implementation for face recognition.
 - [Speech Brain](https://speechbrain.github.io/) An all in one PyTorch speech recognition framework.
-- [pyannote.metric(https://pyannote.github.io/pyannote-metrics): A framework for diarization evaluation and error analysis.
+- [pyannote.metric](https://pyannote.github.io/pyannote-metrics): A framework for diarization evaluation and error analysis.
 - [kaldi with tensorflow dnn](https://github.com/hsn-zeinali/x-vector-kaldi-tf): A Tensorflow implementation of x-vector topology on top of kaldi.
