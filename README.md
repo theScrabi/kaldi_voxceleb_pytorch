@@ -55,3 +55,10 @@ For speaker identification please read the [README.md](sid/README.md) inside the
 The purpose of this work was to see if [Angular Softmax](https://arxiv.org/pdf/1806.03464.pdf) with Cosine distance comparison can enhance end to end speaker identification and diarization. The goal was to find out if  this could eventually outperform and replace the additional use of [PLDA](https://link.springer.com/content/pdf/10.1007%2F11744085_41.pdf). Additionally it was checked if the use of an [Attention Layer](http://www.danielpovey.com/files/2018_interspeech_xvector_attention.pdf) can also enhance speaker identification and diarization.
 
 This was part of my Bachelor Thesis.
+
+## Also Interesting
+
+- [Sphereface](https://github.com/wy1iu/sphereface): The original implementation of the Angular margin based softmax implementation for face recognition.
+- [Speech Brain](https://speechbrain.github.io/) An all in one PyTorch speech recognition framework.
+- [pyannote.metric(https://pyannote.github.io/pyannote-metrics): A framework for diarization evaluation and error analysis.
+- [kaldi with tensorflow dnn](https://github.com/hsn-zeinali/x-vector-kaldi-tf): A Tensorflow implementation of x-vector topology on top of kaldi.
