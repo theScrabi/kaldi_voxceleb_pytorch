@@ -49,7 +49,7 @@ Follow these steps in order to be able to run this project. If something does no
 
 You can use the `run.sh` scripts in the `sid` folder for speaker identification or in the `diarization` folder for running training and testing.
 
-For speaker identification please read the [README.md](sid/README.md) inside the `sid` folder. For diarization read the [README.mde](sid/README.me) in the `diarization` folder.
+For speaker identification please read the [README.md](sid/README.md) inside the `sid` folder. For diarization read the [README.md](diarization/README.md) in the `diarization` folder.
 
 ## Purpouse
 

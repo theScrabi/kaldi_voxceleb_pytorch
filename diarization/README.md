@@ -20,5 +20,3 @@ The `local` directory contains scripts form the kaldi repository.
 - **make_utt2dur.sh** generates a file depicting the duration of each utterance. (This is required for the generation of the fake diarization set. After the creation the utt2dur file is not required anymore.)
 - **order_by_key.py** sort by key.
 - **vis_compare.py** is the same as `colour.py` just without color (I think).
-
-*Implement me*
