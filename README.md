@@ -29,6 +29,7 @@ You need:
 - [PyTorch](https://pytorch.org/) with CUDA support
 - A copy of the [VoxCeleb v1 and VoxCeleb v2](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/) dataset
 - A copy of the [MUSAN](https://www.openslr.org/17/) dataset
+- sox and ffmpeg for audio handling
 
 ### How To Install
 
